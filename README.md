@@ -1,3 +1,3 @@
 # ASTR5900_RAHAT
-Computational Physics &amp; Astrophysics Spring 2026
+Computational Physics &amp; Astrophysics Spring 2026\\
 Name-Md Rahat Ali
