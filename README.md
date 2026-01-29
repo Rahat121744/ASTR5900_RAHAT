@@ -1,4 +1,5 @@
 # ASTR5900_RAHAT
 Computational Physics &amp; Astrophysics Spring 2026
 <br>
-Name-Md Rahat Ali
+Name-(Md Rahat Ali)
+Norman,Oklahoma
